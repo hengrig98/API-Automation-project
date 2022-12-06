@@ -1,0 +1,41 @@
+12/05/2022 11:26:15 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:26:15 PM Test status code is 200
+12/05/2022 11:26:15 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=MSFT&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:26:15 PM Test status code is 200
+12/05/2022 11:26:15 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=TSLA&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:26:15 PM Test status code is 200
+12/05/2022 11:31:03 PM #### Testing Endpoint https://finnhub.io/api/v1/stock/profile2?symbol=AAPL ####
+12/05/2022 11:31:03 PM Test status code is 401
+12/05/2022 11:31:03 PM #### Testing Endpoint https://finnhub.io/api/v1/stock/profile2?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:03 PM Test data matches
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL ####
+12/05/2022 11:31:04 PM Test status code is 401
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:04 PM Test status code is 200
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:04 PM No differences in test data from expected result.
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:04 PM Test status code is 200
+12/05/2022 11:31:04 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=MSFT&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:04 PM Test status code is 200
+12/05/2022 11:31:05 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=TSLA&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:31:05 PM Test status code is 200
+12/05/2022 11:32:23 PM #### Testing Endpoint https://finnhub.io/api/v1/stock/profile2?symbol=AAPL ####
+12/05/2022 11:32:23 PM Test status code is 401
+12/05/2022 11:32:23 PM #### Testing Endpoint https://finnhub.io/api/v1/stock/profile2?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:23 PM Test data matches
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL ####
+12/05/2022 11:32:24 PM Test status code is 401
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM Test status code is 200
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM Test data type is int/float.
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM No differences in test data from expected result.
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=AAPL&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM Test status code is 200
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=MSFT&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM Test status code is 200
+12/05/2022 11:32:24 PM #### Testing Endpoint https://finnhub.io/api/v1/quote?symbol=TSLA&token=cden0v2ad3i8vpup5n2gcden0v2ad3i8vpup5n30 ####
+12/05/2022 11:32:24 PM Test status code is 200

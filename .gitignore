@@ -1,0 +1,8 @@
+# test evidence 
+report.html
+
+# system files/folder
+.pytest_cache
+assets
+__pycache__
+
