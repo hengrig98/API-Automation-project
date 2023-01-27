@@ -31,11 +31,12 @@ def test_get_quote_datatypes():
     for value in data.values():
         assert type(value) in [int, float]
 
+# Unexpected Response Attribute...
 def test_get_quote_keys():
     endpoint = f'{BASE_URL}/quote?symbol=AAPL{API_KEY}'
     response = requests.get(endpoint)
     data = response.json()
-    expected_keys = {'c', 'd', 'dp', 'h', 'I', 'o', 'pc'}
+    expected_keys = {'c', 'd', 'dp', 'h', 'l', 'o', 'pc'}
     actual_keys = set(data.keys())
     diffs = expected_keys.symmetric_difference(actual_keys)
     logger.info(f'#### Testing Endpoint {endpoint} ####')
